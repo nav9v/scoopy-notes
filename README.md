@@ -28,7 +28,7 @@ This project is a hands-on learning experience combining Vite, Svelte, TailwindC
 
 ## Installation
 
-1.  **Clone the repository:** `git clone https://github.com/nav9v/sip24-svelte-quick-notes`
+1.  **Clone the repository:** `git clone https://github.com/nav9v/scoopy-notes`
 2.  **Install dependencies:**
     *   `npm install` (or `yarn install`)
 
