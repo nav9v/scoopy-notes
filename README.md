@@ -1,10 +1,12 @@
 This project was made for a Svelte Fundamentals course, a key part of the Summer Internship Program 2024. In this tutorial, you'll learn the basics of Svelte by building a simple note application. This project will help you understand the core concepts of Svelte while creating a functional quick notes app.
 
----
 
 # Scoopy-Notes 📒✏️
 
 This project is a hands-on learning experience combining Vite, Svelte, TailwindCSS, Flowbite, and Dexie to create a simple note application. Users can create, edit, and delete notes with a clean and modern interface.
+
+![image](https://github.com/user-attachments/assets/31abcc6b-205a-4f2a-bf2f-e077fbf8d80d)
+
 
 ## Key Features
 
